@@ -1,10 +1,10 @@
-# Streamlining insurance claims with OpenShift AI
+# OpenShift AI Unleashed: Transforming Claims Processing for Maximum Efficiency!
 
 ## Introduction
 
-This repository contains the code, instructions, resources and materials associated with the Lab called **Streamlining insurance claims with OpenShift AI**.
+This repository contains the code, instructions, resources and materials associated with the Lab called **OpenShift AI Unleashed: Transforming Claims Processing for Maximum Efficiency!**.
 
-To consult the static version of the instructions, please use [this URL](https://rh-aiservices-bu.github.io/insurance-claim-processing/)
+To consult the static version of the instructions, please use [this URL](https://rh-aiservices-bu.github.io/parasol-insurance/)
 
 If you want to participate in the creation and update of this content, please consult the sections below.
 
@@ -62,7 +62,7 @@ If you want to install packages manually:
 
 ### Development
 
-From the main folder, launch `npm run dev`. This will launch both backend and frontend.
+From the main folder, launch `npm run dev` or `./start-dev.sh`. This will launch both backend and frontend.
 
 - Frontend is accessible at `http://localhost:9000`
 - Backend is accessible at `http://localhost:5000`, with Swagger API doc at `http://localhost:5000/docs`
@@ -114,9 +114,9 @@ done
 </details>
 
 <details>
-  <summary>Links for RH1 event environment assignment</summary>
+  <summary>Links for Summit event environment assignment</summary>
 
 - URL for all labs: [https://one.demo.redhat.com/](https://one.demo.redhat.com/)
-- Search for `insurance`
+- Search for `parasol`
 
 </details>
